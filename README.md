@@ -1,1 +1,2 @@
 # CS250-Software-Development
+In order to be successful within a Scrum team, it is important to know how to listen to clients and customers to create a great product. By doing this, user stories can be created as items needed to be completed in order to have a satisfactory product. Being flexible and preparing my code for any changes is one of the ways I hope to incorporate agile processes into my future work. Being a good team member in software development means being open to new ideas and always aspiring to learn. 
